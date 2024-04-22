@@ -1,6 +1,9 @@
 # Learn Python
 This repository contains the code and documentation on my learning journey. The idea is to craete directroy for each chapter as and when I learn Python. This README file will be updated as and when I create a new directory/chapter. 
 
+## Learning resources 
+To get started we will learn python using the book Automate The Boring Stuff with Python.
+
 Chapter1 - Python Basics
 
 
