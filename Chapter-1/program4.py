@@ -10,6 +10,7 @@ print('The length of your name is: ' + str(len(myName)))
 print('What is your age?') # asks for their age
 myAge = int(input())
 
-print('You will be ' + str(myAge + 1) + ' in a year') 
+print('You will be ' + str(myAge + 1) + ' in a year')  # predicting the age in a year
+
 
       
