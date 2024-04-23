@@ -5,6 +5,7 @@ This repository contains the code and documentation on my learning journey. The 
 To get started we will learn python using the book Automate The Boring Stuff with Python.
 
 Chapter1 - Python Basics
+Chapter2 - Flow Controls
 
 
 ## How to Run the code.
