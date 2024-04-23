@@ -4,6 +4,7 @@ This repository contains the code and documentation on my learning journey. The 
 ## Learning resources 
 To get started we will learn python using the book Automate The Boring Stuff with Python.
 
+Table of Contents
 | Chapter-No | Chapter Name |
 | ---- | ---- |
 | Chapter1 | Basics of python |
