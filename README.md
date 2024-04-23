@@ -4,8 +4,10 @@ This repository contains the code and documentation on my learning journey. The 
 ## Learning resources 
 To get started we will learn python using the book Automate The Boring Stuff with Python.
 
-Chapter1 - Python Basics
-Chapter2 - Flow Controls
+| Chapter-No | Chapter Name |
+| ---- | ---- |
+| Chapter1 | Basics of python |
+| Chapter2 | Flow Controls |
 
 
 ## How to Run the code.
