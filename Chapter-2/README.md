@@ -13,3 +13,4 @@ Tracking of learning as follows:
 | program5.py | continue statements |
 | program6.py | for loop statements |
 | program7.py | importing modules |
+| program8.py | Ending program with sys.exit |
