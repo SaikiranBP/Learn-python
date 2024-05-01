@@ -9,6 +9,7 @@ Table of Contents
 | ---- | ---- |
 | Chapter1 | Basics of python |
 | Chapter2 | Flow Controls |
+| Chapter3 | Functions |
 
 
 ## How to Run the code.
