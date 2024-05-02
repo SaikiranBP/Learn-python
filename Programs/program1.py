@@ -6,5 +6,6 @@ user_input = int(input())
 
 password = string.ascii_letters + string.digits + string.punctuation
 
-user_password = random.choices(password, k=user_input)
-print(user_password)
+user_password = ''.join(random.choices(password, k=user_input))
+print('Your password is ' + str(user_password))
+
