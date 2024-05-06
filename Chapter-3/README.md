@@ -8,3 +8,4 @@ Tracking of learning as follows:
 | ---- | ---- |
 | program1.py | Defining function |
 | program2.py | Keyword arguemnts |
+| program3.py | Exception handling |
