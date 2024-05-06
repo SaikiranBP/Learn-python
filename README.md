@@ -10,7 +10,7 @@ Table of Contents
 | Chapter1 | Basics of python |
 | Chapter2 | Flow Controls |
 | Chapter3 | Functions |
-
+| Chapter4 | Lists |
 
 ## How to Run the code.
 Install python 3.9 or higher version on the system where you want to run the code.
