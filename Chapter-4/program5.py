@@ -32,7 +32,6 @@ while True:
         pop_word = input()
         if pop_word == 'pop':
             print(remove_word)
-            continue
         else:
             continue
 
@@ -43,7 +42,6 @@ while True:
         pop_word1 = input()
         if pop_word1 == 'pop':
             print(deleted_word)
-            continue
         else:
             continue
 
