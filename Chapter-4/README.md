@@ -9,3 +9,4 @@ Tracking of Learning as follow:
 | Program2.py | remove statement |
 | Program3.py | Index of list |
 | Program4.py | Sorting |
+| Program5.py | Removing an item from the list |
