@@ -29,7 +29,7 @@ if user_lowerletter == 'random':
 
 elif user_lowerletter == 'last item':
     del stationary_list[user_input - 1]
-    print("Your final list contains: " + str(stationary_list))
+    print("The final list contains: " + str(stationary_list))
 
 else:
      print("Please type correct word")
