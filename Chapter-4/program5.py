@@ -1,7 +1,7 @@
 import random
 stationary_list = []
-
-print('How many items do you want to enter into your list?')  # asking user to enter the number of items to add into your list
+# asking user to enter the number of items to add into your list
+print('How many items do you want to enter into your list?')
 user_input = int(input())
 
 
@@ -10,7 +10,7 @@ for i in range(1, user_input + 1):
     input_list = input()
     stationary_list.append(input_list)
 
-print('Your list contains ' + str(stationary_list))  # prints the final list of items 
+print('Your list contains ' + str(stationary_list)) # prints the final list of items 
 
 # if user_answer is random, the word will be removed from the list randomly, 
 # if user_answer is last item then the last item will be removed from the list
