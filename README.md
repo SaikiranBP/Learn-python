@@ -11,6 +11,7 @@ Table of Contents
 | Chapter2 | Flow Controls |
 | Chapter3 | Functions |
 | Chapter4 | Lists |
+| Chapter5 | Dictionaries |
 
 ## How to Run the code.
 Install python 3.9 or higher version on the system where you want to run the code.
