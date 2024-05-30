@@ -6,3 +6,4 @@ Tracking of learning as follow:
 | Program name | Description |
 | ---- | ---- |
 | program1.py | Key-value pair |
+| program2.py | Birthday dictionary |
