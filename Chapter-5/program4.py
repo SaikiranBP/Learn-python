@@ -1,5 +1,7 @@
 """
-
+This program has a dictionary named 'cricketers'.
+This program checks whether the key or value 
+entered by the user is present in dictionary or not.
 """
 cricketers = {
     "India" : "Virat Kohli",
