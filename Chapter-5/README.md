@@ -8,3 +8,4 @@ Tracking of learning as follow:
 | program1.py | Key-value pair |
 | program2.py | Birthday dictionary |
 | program3.py | keys, values, items methods |
+| program4.py | Checking of key and value |
