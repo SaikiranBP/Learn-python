@@ -6,3 +6,4 @@ Tracking of learning as follow:
 | Program name | Description |
 | ---- | ---- |
 | program1.py | lower and upper methods |
+| program2.py | The isX string methods |
