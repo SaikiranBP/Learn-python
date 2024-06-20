@@ -7,3 +7,4 @@ Tracking of learning as follow:
 | ---- | ---- |
 | program1.py | lower and upper methods |
 | program2.py | The isX string methods |
+| program3.py | split and join methods |
