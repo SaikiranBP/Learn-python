@@ -11,7 +11,7 @@ list_without_colours = []
 for name in list_with_colours:
     city_area = name.rsplit('-', 1)
     if city_area[0] not in list_without_colours:
-        print(name + ',' + str(1))
+        print(name + ',' + 'True')
     elif city_area[0] in list_without_colours:
-        print(name + ',' + str(0))
+        print(name + ',' + 'False')
     list_without_colours.append(city_area[0])
