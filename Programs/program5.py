@@ -1,6 +1,13 @@
 """
-
+This is calculator program.
+This program provides the user to enter the 2 numbers
+and then perform the basic operations
+This program has 6 functions add, subtract,
+multiply, divide and the other two functions takes the input
+of 2 numbers from the user.
+This program aslo handles the ZeroDivisionError.
 """
+
 def add(a, b):
     return a + b
 
