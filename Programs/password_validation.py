@@ -28,7 +28,12 @@ def validate_password():
     if not re.search("[!@#$%^&*()_-]", password):
         return "Password must contain atleast one special character"
     
-    return "Password validation successful"
+    confirm_password = input("Confirm the password: ")
+
+    if confirm_password == password:
+        return "Password validation successful"
+    else:
+        return "Password validation unsuccessful"
 
 password = input("Type the password: ")
 print(validate_password())
