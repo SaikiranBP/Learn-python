@@ -5,4 +5,5 @@ Tracking of learning as follow:
 
 | Program name | Description |
 | ---- | ---- |
-| program1.py | Open and read methods |
+| program1.py | Open and read function |
+| program2.py | Write function |
