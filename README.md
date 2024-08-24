@@ -13,6 +13,8 @@ Table of Contents
 | Chapter4 | Lists |
 | Chapter5 | Dictionaries |
 | Chapter6 | Manipulating Strings |
+| Chapter7 | 
+| Chapter8 | Reading and writing files |
 
 ## How to Run the code.
 Install python 3.9 or higher version on the system where you want to run the code.
