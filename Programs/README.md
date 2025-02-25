@@ -8,3 +8,4 @@ Tracking of programs as follows:
 | program3.py | Odd/Even number |
 | program4.py | city-area-name program |
 | program5.py | Calculator program |
+| qr_generator.py| Qr code generator |
