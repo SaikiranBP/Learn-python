@@ -9,26 +9,29 @@ Conditions:
 
 import re
 
-def validate_pass(passoword): 
+def validate_pass(password): 
     
-    if len(passoword) < 8:
-        return "Length of password should be more than 8"
+    if re.search("\s", password):
+        return "Password should not contain space"
+        
+    if len(password) < 8:
+        return "Password must contain more than 8 characters"
     
-    if not re.search("[A-Z]", passoword):
+    if not re.search("[A-Z]", password):
         return "Password must conatain uppercase letters"
     
-    if not re.search("[a-z]", passoword):
+    if not re.search("[a-z]", password):
         return "Password must contain lowercase letters"
     
-    if not re.search("\d", passoword):
+    if not re.search("\d", password):
         return "Password must contain digits"
     
-    if not re.search("[!@#$%^&*()-_?/]+", passoword):
+    if not re.search("[!@#$%^&*()_-]", password):
         return "Password must contain atleast one special character"
     
     confirm_pass = input("Confirm the password: ")
     
-    if confirm_pass == passoword:
+    if confirm_pass == password:
         return "Password validation successfull"
     else:
         return "Password validation unsuccessfull"
