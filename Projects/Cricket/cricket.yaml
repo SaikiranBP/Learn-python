@@ -1,8 +1,8 @@
-teams: 
+teams:
 - Country: India
   Captain: Virat Kohli
   Vice-captain: Rohit Sharma
-  Players: 
+  Players:
     - name : Rohit Sharma
       role : Batsman
     - name : Shubman gill
@@ -27,6 +27,60 @@ teams:
       role : Bowler
 
 - Country: Australia
+  Captain: Pat Cummins
+  Vice-Captain: Steve Smith
+  Players:
+    - name: Travis Head
+      role: Batsman
+    - name: David Warner
+      role: Batsman
+    - name: Marnus Labuschane
+      role: Batsman
+    - name: Steve Smith
+      role: Batsman
+    - name: Alex Carey
+      role: Wicket keeper
+    - name: Mitchell Marsh
+      role: All-rounder
+    - name: Glenn Maxwell
+      role: All-rounder
+    - name: Adam Zampa
+      role: Bowler
+    - name: Pat Cummins
+      role: Bowler
+    - name: Josh Hazelwood
+      role: Bowler
+    - name: Mitchell Starc
+      role: Bowler
+
+- Country: Pak
+  Captain: Pat Cummins
+  Vice-Captain: Steve Smith
+  Players:
+    - name: Travis Head
+      role: Batsman
+    - name: David Warner
+      role: Batsman
+    - name: Marnus Labuschane
+      role: Batsman
+    - name: Steve Smith
+      role: Batsman
+    - name: Alex Carey
+      role: Wicket keeper
+    - name: Mitchell Marsh
+      role: All-rounder
+    - name: Glenn Maxwell
+      role: All-rounder
+    - name: Adam Zampa
+      role: Bowler
+    - name: Pat Cummins
+      role: Bowler
+    - name: Josh Hazelwood
+      role: Bowler
+    - name: Mitchell Starc
+      role: Bowler
+
+- Country: England
   Captain: Pat Cummins
   Vice-Captain: Steve Smith
   Players:
