@@ -35,4 +35,4 @@ def fetch_players(cric_data, team, role):
 cricket_details = load_data()
 country_list = fetch_countries(cricket_details)
 display_countries = show_list(country_list)
-get_players_by_role = fetch_players(cricket_details, "India", "Batsmna")
+get_players_by_role = fetch_players(cricket_details, "India", "Batsman")
