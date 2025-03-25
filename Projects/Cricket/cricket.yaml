@@ -1,0 +1,54 @@
+teams: 
+- Country: India
+  Captain: Virat Kohli
+  Vice-captain: Rohit Sharma
+  Players: 
+    - name : Rohit Sharma
+      role : Batsman
+    - name : Shubman gill
+      role : Batsman
+    - name : Virat Kohli
+      role : Batsman
+    - name : Shreyas Iyer
+      role : Batsman
+    - name : K L Rahul
+      role : Wicket-keeper
+    - name : Axar Patel
+      role : All-rounder
+    - name : Hardik Pandya
+      role : All-rounder
+    - name : Ravindra Jadeja
+      role : All-rounder
+    - name : Mohammed Shami
+      role : Bowler
+    - name : Varun Chakravarty
+      role : Bowler
+    - name : Kuldeep Yadav
+      role : Bowler
+
+- Country: Australia
+  Captain: Pat Cummins
+  Vice-Captain: Steve Smith
+  Players:
+    - name: Travis Head
+      role: Batsman
+    - name: David Warner
+      role: Batsman
+    - name: Marnus Labuschane
+      role: Batsman
+    - name: Steve Smith
+      role: Batsman
+    - name: Alex Carey
+      role: Wicket keeper
+    - name: Mitchell Marsh
+      role: All-rounder
+    - name: Glenn Maxwell
+      role: All-rounder
+    - name: Adam Zampa
+      role: Bowler
+    - name: Pat Cummins
+      role: Bowler
+    - name: Josh Hazelwood
+      role: Bowler
+    - name: Mitchell Starc
+      role: Bowler
