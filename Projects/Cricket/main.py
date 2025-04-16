@@ -33,17 +33,17 @@ def fetch_players(cric_data, team, role):
     return players_with_role
 
 def choose_team(any_list):
-    any_map = {}
-    sl_no = 1
-    for a in any_list:
-        any_map[sl_no] = a
-        sl_no += 1
-    for k, v in any_map.items():
+    any_map = list(enumerate(any_list, start=1))
+    for k, v in any_map:
         print(f"{k} - {v}")
     choice = int(input("Enter the number corresponding to your choice: "))
-    for x, y in any_map.items():
+    for x, y in any_map:
         if choice == x:
             print(f"You Chose {y} as your team")
+    opp_choice = int(input("Choose your opponent team: "))
+    for x, y in any_map:
+        if opp_choice == x:
+            print(f"You chose {y} as your opponent team")
 
 def perform_toss():
     toss_result = toss()
@@ -56,8 +56,18 @@ def perform_toss():
         print(f"Toss result: {toss_result}")
         if user_call == toss_result:
             print("You have won the toss")
+            print("1: To Bat\n2: To Bowl")
+            bat_or_ball = int(input())
+            if bat_or_ball == 1:
+                print("You chose to bat")
+            elif bat_or_ball == 2:
+                print("You chose to bowl")
+            else:
+                print("You have entered wrong choice")
         else:
-            print("You have lost the toss")
+            opp_choice = random.choice(["Bat", "Bowl"])
+            print(f"Opponent team has won the toss and elected to {opp_choice} first!!")
+
     else:
         print("You have entered the wrong choice")
 
