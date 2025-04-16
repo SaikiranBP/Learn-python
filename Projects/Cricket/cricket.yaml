@@ -52,3 +52,29 @@ teams:
       role: Bowler
     - name: Mitchell Starc
       role: Bowler
+- Country: England
+  Captain: Jos Buttler
+  Vice-captain: Phil Salt
+  Players: 
+    - name : Phil Salt
+      role : Batsman
+    - name : Ben Duckett
+      role : Batsman
+    - name : Jos Buttler
+      role : Wicket Keeper
+    - name : Harry Brook
+      role : Batsman
+    - name : Liam Livingstone
+      role : All-rounder
+    - name : Jacob Bethell
+      role : Batsman
+    - name : Jamie Overton
+      role : All-rounder
+    - name : Brydon Curse
+      role : All-rounder
+    - name : Jofra Archer
+      role : Bowler
+    - name : Adil Rashid
+      role : Bowler
+    - name : Mark Wood
+      role : Bowler
