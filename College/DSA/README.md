@@ -9,3 +9,4 @@ Tracking of learning as follows:
 | 3. Circular Singly Linked List |
 | 4. Queue using Linked List |
 | 5. Priority queue using Linked List |
+| 6. Circular queue using Linked List |
