@@ -7,3 +7,5 @@ Tracking of learning as follows:
 | 1. Singly Linked List |
 | 2. Doubly Linked List |
 | 3. Circular Singly Linked List |
+| 4. Queue using Linked List |
+| 5. Priority queue using Linked List |
