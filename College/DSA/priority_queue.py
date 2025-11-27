@@ -49,7 +49,7 @@ p1 = Priority_queue()
 
 while True:
     
-    print("---Queue using Linked list---")
+    print("---Priority Queue using Linked list---")
     print("1. Enqueue")
     print("2. Dequeue")
     print("3. Peek")
@@ -85,4 +85,4 @@ while True:
         break
     
     else:
-        print("Choose the correct")
+        print("Choose the correct option")
